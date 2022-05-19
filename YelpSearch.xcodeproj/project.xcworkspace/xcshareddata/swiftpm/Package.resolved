@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Connectivity",
+        "repositoryURL": "https://github.com/rwbutler/connectivity",
+        "state": {
+          "branch": null,
+          "revision": "8b5d46aa82ff1a2eda220523437946aa5aa2bf29",
+          "version": "5.1.0"
+        }
+      },
+      {
+        "package": "IHProgressHUD",
+        "repositoryURL": "https://github.com/Swiftify-Corp/IHProgressHUD.git",
+        "state": {
+          "branch": null,
+          "revision": "c3e0cf90ba1b310073e841de7dc6ef0a2d4899e2",
+          "version": "0.1.8"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
+        "state": {
+          "branch": null,
+          "revision": "2e63d0061da449ad0ed130768d05dceb1496de44",
+          "version": "5.12.5"
+        }
+      },
+      {
+        "package": "Swinject",
+        "repositoryURL": "https://github.com/Swinject/Swinject.git",
+        "state": {
+          "branch": null,
+          "revision": "f10b6e9ebff440f985c43008f7c2d097639fcb81",
+          "version": "2.8.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
